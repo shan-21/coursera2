@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<Title>
+Cousera week 2</title>
+<style>
+body{
+background-color:gray;
+}
+#sun{
+color:blue;
+text-align:center;
+font-size:50x;
+font-family:bold;
+}
+#a{
+width:330px;
+height:250px;
+font-size:40px;
+text-align:center;
+background-color:green;
+border:5px solid black;
+margin-left:25px;
+margin-top:30px;
+margin-bottom:30px;
+margin-right:25px;
+}
+#b{
+width:330px;
+height:250px;
+text-align:center;
+float:top;
+font-size:40px;
+background-color:red;border:5px solid black;
+margin-left:25px;
+margin-top:30px;
+margin-bottom:30px;
+margin-right:25px;
+}
+#c{
+width:330px;
+height:250px;
+text-align:center;
+font-size:40px;
+background-color:blue;
+color:white;border:5px solid white;
+margin-left:25px;
+margin-top:30px;
+margin-bottom:30px;
+margin-right:25px;
+}
+</style>
+</head>
+<body>
+<h1 id="sun">Our Menu</h1>
+<p id="a">Hi,welcome to coursera</p>
+<p id="b">This is my first project(beginer level)</p>
+<p id="c">Give credits as high as possible</p>
+</body>
+</html>
